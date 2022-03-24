@@ -1,0 +1,19 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "line1": "sandeep5",
+      "line2": "prajpaat3",
+      "city": "India",
+      "postCode": "969696"
+    }
+  ],
+  "apiKeys": [
+    {
+      "id": "07519e3c-3f2e-4d79-99ef-2b9851f976b0"
+    },
+    {
+      "id": "07519e3c-3f2e-4d79-99ef-2b9851f976b3"
+    }
+  ]
+}
